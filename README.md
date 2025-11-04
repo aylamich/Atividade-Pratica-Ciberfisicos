@@ -12,7 +12,7 @@ Somar números de 1 até 1.000.000, 10 vezes por thread/tarefa.
 | 500        | 98,90           | 28,90           |
 | 1000       | 156,29          | 28,17           |
 
-## Relatório Simples
+## Relatório 
 
 **O que fizemos:**  
 Criamos duas versões da mesma tarefa (somar de 1 a 1.000.000, 10 vezes por thread):
